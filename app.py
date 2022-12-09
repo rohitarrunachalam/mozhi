@@ -21,6 +21,7 @@ s = ""
 for i in ascii_uppercase:
 	d[i]=0
 
+widget = st.empty()
 
 mp_drawing = mp.solutions.drawing_utils
 mp_hands = mp.solutions.hands
@@ -76,7 +77,6 @@ def process(image):
             classes_x=np.argmax(y_pred)
             image = cv2.putText(image, str(y_pred), (0,70),cv2.FONT_HERSHEY_SIMPLEX,  3, (0,0,0), 2, cv2.LINE_AA)
             d[y_pred[0]]+=1
-            widget = st.empty()
             if d[y_pred[0]]>20:
                 if (y_pred[0] in d1.keys()):
                     if (s==""):

@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Open terminal in the directory where the home.py file is present and run the command
 ```
-streamlit run Home.py
+streamlit run app.py
 ```
 
 ### Technologies Used

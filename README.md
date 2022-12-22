@@ -2,7 +2,7 @@
 AI Assistance tool for Sign Language Conversion !
 ### Table of Contents  
 - [Overview](#Overview)  
-- [Problem Solution](#Problem%Solution) 
+- [Working](#Working) 
 - [Demo](#Demo) 
 - [Installation](#Installation) 
 - [Run](#Run) 
@@ -21,7 +21,7 @@ people.
 - The User's hand movements are captured with the help of OpenCV and we use Mediapipe to extract the coordinates.
 - These coordinated are then compared with the trained SVM Model(which we trained with our own datasets) and the appropriate letter is displayed as output in the screen.
 - After each detection the letter gets appended to the string forming a word. Parallely we also included features like Auto-Complete and Next Word Prediction using BERT to make the process more efficient and faster.
-- Finally, the outputted word is converted to speech and displayed as output.
+- Finally, the output word is converted to speech and displayed as output.
 
 ### Demo
 ![](https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/demo-pic.png)

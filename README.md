@@ -1,5 +1,6 @@
 # Sign-Language-Recognition
-AI Assistance tool for Sign Language Conversion !
+An IoT based walking stick which helps people with visual impairment to overcome their difficulties and act independently.
+
 ### Table of Contents  
 - [Overview](#Overview)  
 - [Working](#Working) 

@@ -45,7 +45,7 @@ streamlit run app.py
 ### Technologies Used
 
 
-<img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/py-logo.png" width=15% height=15%>  <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/openCV-logo.png" width=10% height=10%>  <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/mediapipe-logo.jpeg" width=10% height=10%>  <img src="https://github.com/harikrish-s/Sign-Language-Recognition/blob/main/demo/st-logo.png" width=15% height=15%>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 
 

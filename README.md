@@ -1,5 +1,5 @@
-# Sign-Language-Recognition
-AI Assistance Tool for Sign Language Conversion !
+# Mozhi 
+An AI Assistance Tool for Sign Language Conversion !
 
 ### Table of Contents  
 - [Overview](#Overview)  

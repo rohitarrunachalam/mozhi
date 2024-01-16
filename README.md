@@ -1,4 +1,4 @@
-# Mozhi 
+# Mozhi (Language in Tamil)
 An AI Assistance Tool for Sign Language Conversion !
 
 ### Table of Contents  
